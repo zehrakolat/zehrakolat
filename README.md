@@ -64,12 +64,11 @@ I am a senior student at **Istinye University**, pursuing a double major in **Ma
 </p>
 
 ### 📊 GitHub Stats
-
+<h3 align="left">📊 GitHub Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zehrakolat&show_icons=true&locale=en&theme=radical" alt="zehrakolat" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zehrakolat&show_icons=true&locale=en&layout=compact&theme=radical" alt="zehrakolat" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zehrakolat&show_icons=true&theme=radical" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zehrakolat&layout=compact&theme=radical" height="150" alt="languages graph" />
 </div>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zehrakolat&theme=radical" alt="zehrakolat" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zehrakolat&theme=radical" alt="streak graph" />
 </div>
