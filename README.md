@@ -16,7 +16,7 @@
 
 I am a senior student at **Istinye University**, pursuing a double major in **Mathematics** and **Software Engineering** with a full scholarship. I combine strong analytical skills with software development to solve complex problems.
 
-- 🔭 I’m currently working on **RSA Cryptosystems & Data Security** (Graduation Thesis).
+- 🔭 I worked on **RSA Cryptosystems & Data Security** (Bachelor's Thesis). 
 - 🤖 I have developed projects like **Medical Chatbot (AI/NLP)** and **Data Analysis Tools**.
 - 🌱 I’m currently learning **Cyber Security, Advanced Algorithms, and Backend Architectures**.
 - ⚡ Fun fact: I love analyzing time series data as much as I love coding!
