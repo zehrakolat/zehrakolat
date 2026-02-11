@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Zehra Kolat! 👋</h1>
 <h3 align="center">Mathematics & Software Engineering Double Major Student</h3>
-
+<p align="center"> Focusing on Cryptography, AI, and Backend Development </p>
 <p align="center">
   <em>"Turning abstract algebra into efficient backend logic."</em>
 </p>
