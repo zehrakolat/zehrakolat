@@ -67,13 +67,7 @@ I am a senior student at **Istinye University**, pursuing a double major in **Ma
 ### 📊 GitHub Stats
 
 <div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zehrakolat&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=zehrakolat&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zehrakolat&theme=radical" alt="zehrakolat" />
 </div>
+
+
